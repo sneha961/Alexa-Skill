@@ -25,7 +25,7 @@ The abstract of the project's flow is as follows:
 
 Architecture:
 -------------------
-
+https://user-images.githubusercontent.com/16801084/142931169-4447da4a-9eb2-4220-b321-1262229e3612.png
 
 Use Cases:
 -------------------
