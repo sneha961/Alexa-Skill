@@ -1,8 +1,7 @@
-"# EchoProject" 
 
 Project Objective:
 -------------------
-The objective of the project is to manage the Relational Database Service (AWS service) using the Ama‐ zon Echo/Alexa.The key features include creation (with custom as well as default values), deletion and modification of an RDS instance. Also metrics of RDS and be determined using the created skill.
+The objective of the project is to manage AWS Services (AWS service) using the Amazon Alexa.The key features include creation (with custom as well as default values), deletion and modification of an RDS instance. Also metrics of various services can be determined using the created skill.
 
 AWS services used:
 -------------------
